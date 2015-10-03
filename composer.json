@@ -1,0 +1,20 @@
+{
+  "name": "macfja/math",
+  "description": "A set of tools around Mathematics.",
+  "keywords": ["Math", "Combination"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MacFJA"
+    }
+  ],
+  "suggest": {
+    "ext-bcmath": "Install BCMath to improve and speed up factorial computation",
+    "ext-gmp": "Install GMP to improve and speed up factorial computation"
+  },
+  "autoload": {
+    "psr-4": {
+      "MacFJA\\Math\\": "lib/"
+    }
+  }
+}

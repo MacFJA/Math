@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+.idea/
+
+### Composer template
+vendor/
+composer.lock
+
